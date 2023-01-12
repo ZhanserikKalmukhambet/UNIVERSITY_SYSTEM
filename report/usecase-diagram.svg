@@ -1,0 +1,1201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-23 -30 1768 1883' xmlns:xlink='http://www.w3.org/1999/xlink' width='1768.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='1883.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f98ca3d7-f520-45d2-82e4-8b38083e3149' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a76b012e-39d8-485f-abf5-79b01a670589' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e4ae88bc-594d-40b1-a7fd-1423bb51c3f3' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='9b70ce57-974a-407a-a56f-fbcebc239c18' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2f2a024c-211d-425d-8464-142859fc4515' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='9d50a7b8-82b4-49fb-9582-e32d5fa4e90f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='c7838411-4767-46b5-a4c4-d32fbcf9a8b1' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='80b73bbf-4449-4a37-8f47-8fdd79a199ba' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6f6d020c-c2b5-45e4-afa4-779f060ad112' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6e1b1bcb-3956-4fde-8e0a-3a0242c5440e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='75acbddb-e717-4e5b-8606-01fc0aa828b1' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6367f283-a4f1-4365-9301-a86e3f8fe4f9' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='11bd96a2-a836-4db9-bbcb-aa8e9ea73c5b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='4f33f5d3-2052-40b4-80d1-418362fff03f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b1f948a7-9f46-4d94-b59c-c6907836f6dd' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='3de45511-cbf0-422a-9685-90beb0814ab8' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='d5edad8f-7827-4c2c-8b7e-75b5e3b68f37' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='90a00cce-fb0d-484b-8548-90d2581b7d78' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='300a7387-a478-45b3-bf08-89d4a773f27e' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ec344640-96f8-4d30-a361-3a39e0b08357' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8c071a23-b7f9-46e3-acd7-f384d250b968' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='fa2eee83-350c-4222-a7e8-4a231afab29f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='bbd21fce-763f-46a2-bb02-1e9435168a1b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='4fd2cf9f-3283-4484-9c6c-d1b4895af3bf' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='eeab1ef1-348c-4361-9677-87991d52e6d0' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='7bf276e8-6ecb-448b-a464-bbff21d93567' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='69c3952a-ade6-4484-b78b-7c473a83bc7d' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='cae23df4-de26-4d1f-9c17-6d67605e6531' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='bb8ffbfe-4496-4a7b-b9e6-6e2397df37e8' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='5a145ef9-e207-4da7-8dd9-802617a77058' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2722f554-8a60-40b0-a617-d14bac0adddd' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a5d06481-4ef3-4e61-8251-9c6c3b977503' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='14fb1c16-a396-4ac2-9d40-bb98df8492e7' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='54986575-8c5f-4339-8939-2df597096eb4' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8011ff2d-9053-4664-8ef4-0796a19c32e2' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='c3de8bc8-f595-418c-ab02-9e89e3ab6a5c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='63db7b3c-6a6c-43fd-bc1d-ca15342ca25c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='7387dbfb-3743-4824-8d62-1c82efe7fa35' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1c5ba86a-8563-4db6-84db-ff77c734d035' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='68e1ea3c-2820-4937-bbfd-b14a76ad4e99' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6ea2cb4b-c0c9-410e-b472-afc175f08786' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6715dff2-f7a5-4c2c-bdb7-4d94688d626c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1117d5f8-9a67-46c0-aaad-c7814d23001b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8ab6a46d-6bf3-49ad-bcd1-29bf6c5afb33' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='96c2657c-6ded-41e8-82d6-bef2373de5c4' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8691467c-fbb5-4538-816c-d23f04ca1f82' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='194b2600-6d75-4010-a878-07e24ebb5782' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='97a66031-c21b-41a2-867b-5d962f1c2948' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f7aab13c-f220-43fe-be8a-c7f40d76c3a1' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ab16de5e-7088-40f3-bc05-4039fae9f433' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e7902e2d-7cbd-403f-bed6-1d88094400a3' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='0de57ee8-f4e3-4d27-8e96-7d13743c3f7f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='3cdb745f-9995-4c34-b57c-0bc95aa85941' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='3b8d9a91-baa9-4d7e-a6c4-cd3c43e052df' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e0596c69-6758-4d2e-8623-1b41b573b058' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='93661539-dc21-4f97-84a8-abab897a20b4' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='cdb14144-f1c5-4ee8-adad-b2813421e2a7' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='681106d6-9971-438c-a574-dfccff69c54a' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='25f54baf-a4b1-49b9-937b-eccb80ba8863' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='37d637d1-ea88-467b-a1b0-bfb33d7997fb' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='de09e7bf-caff-441e-a4d0-bbd2dbbbf4be' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='c17184af-30f9-411e-a0a6-3373afaf6fc3' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='dd7ce641-8b93-4c00-8415-419bff11ca94' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b222e4cc-44e9-47fb-a2c6-1e96d8805e01' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8e400fd4-6c1f-4ecf-9260-217060fe822d' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='04b2d9a4-fbb8-4f2f-ba82-f15eafa3016b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f72221c0-555f-4cac-95e2-1c30e62c7a06' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='57cdf82b-7fb9-463e-b8e1-0d0bd55aaaa9' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='69d11f06-d6c7-4ea6-bffc-90466ad2272a' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='85687954-d2ae-4564-9588-32cb4f169896' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='062b1866-49cc-4dd7-b995-61e227b6f673' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='76b12bbf-ec34-4563-aeee-2ee3ab6b1bf6' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8e0a3c68-541a-4a99-8cde-623360c49872' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2951536e-c1b2-4a02-ba7b-fed98bc2b9a5' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='9d940818-34e6-4772-8d40-7c31dce18aea' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f41c6251-01e0-4e2b-a0cc-6cae89ae8642' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b86e504b-7907-4723-be8a-14d7256df403' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1f8aa54b-29de-4e40-ac7c-79bec2c3f002' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ed26b1bb-8d2b-4a63-b380-0980ad76303a' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='4e9cc859-fba4-48b3-9c39-a93d878ec9a8' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='52f1adc6-9899-4089-a72e-a310a50969d1' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='25d3696b-a3c2-4f42-9799-9f5fb298d9a8' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='18ca1a48-7bfc-4e7d-bde2-cdd2218174ff' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2cbfd2c6-e0a0-4a7a-8b13-912a4661f7d7' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='bd7b549e-147d-4b84-87f7-8a1c5c68283f' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a30efcd5-a2e1-4f4e-81bc-5951f8c037b2' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='a6fe74d5-1a7b-4c1b-8d10-88a3a26f50d0' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='e1115cd8-0a1a-419e-8662-de3b3aa82b04' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='2e05022c-66a5-4c6a-b39d-94d8ae3609bf' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='aa5e9597-839f-4b7c-b993-248333485cef' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='9d23c6b2-25e3-48c0-814e-a53ccf1e1323' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='33cb88ee-9020-478d-852a-1677dcf03789' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='75b27f15-e6cc-4f0a-9641-e90f18a039c0' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='ae26db26-904c-497e-aa1d-b01cc1f8c8da' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='57960c58-93e3-444c-838f-21bd977beef7' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b626ebb2-d3a0-4923-b299-1394d9bf21b6' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='60e62255-2082-4331-ae1a-c1be86bc2c60' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+  </defs>
+  <desc>UsecaseDiagram</desc>
+  <g transform='translate(508.0,164.0)' id='_zTp4MFNXEDun3IQ1q7Ko-w'>
+    <circle r='8.200000000000001' cx='35.0' cy='10.200000000000001' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='18.400000000000002' x1='35.0' y2='57.4' x2='35.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='32.800000000000004' x1='17.599999999999998' y2='32.800000000000004' x2='52.400000000000006' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='57.4' x1='35.0' y2='80.0' x2='21.479999999999997' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='57.4' x1='35.0' y2='80.0' x2='48.519999999999996' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='35.0' y='95.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Student</text>
+  </g>
+  <g transform='translate(706.0,102.0)' id='_roETQFNcEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#f98ca3d7-f520-45d2-82e4-8b38083e3149)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Registration For</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Courses</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1391.0,0.0)' id='_2r83cFNcEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#a76b012e-39d8-485f-abf5-79b01a670589)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add Courses</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1131.0,41.0)' id='_3PnlMVNcEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#e4ae88bc-594d-40b1-a7fd-1423bb51c3f3)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Courses</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1072.0,102.0)' id='_3Z3tYVNcEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#9b70ce57-974a-407a-a56f-fbcebc239c18)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Drop Courses</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(208.0,184.0)' id='_gs-pQFNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#2f2a024c-211d-425d-8464-142859fc4515)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,13.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Get Grade</text>
+      </g>
+      <line y1='21.0' x1='15.0' y2='21.0' x2='85.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='50.0' y='42.0' font-size='13' fill='rgb(0, 0, 0)'>extension</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(7.0,342.0)' id='_lEeN8FNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#9d50a7b8-82b4-49fb-9582-e32d5fa4e90f)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Transcript</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(93.0,446.0)' id='_l7IwMVNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#c7838411-4767-46b5-a4c4-d32fbcf9a8b1)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Get Transcript</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(208.0,394.0)' id='_l_VTsVNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#80b73bbf-4449-4a37-8f47-8fdd79a199ba)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Grades</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(411.0,70.0)' id='_3aEsQFNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#6f6d020c-c2b5-45e4-afa4-779f060ad112)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,6.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Join</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Organization</text>
+      </g>
+      <line y1='34.0' x1='15.0' y2='34.0' x2='85.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='50.0' y='55.0' font-size='13' fill='rgb(0, 0, 0)'>extension</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(618.0,12.0)' id='_66CMAFNdEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#6e1b1bcb-3956-4fde-8e0a-3a0242c5440e)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Leave</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Organization</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(282.0,536.0)' id='_KDLVYFNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#75acbddb-e717-4e5b-8606-01fc0aa828b1)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Teacher</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Info</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(581.0,719.0)' id='_Khm90VNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#6367f283-a4f1-4365-9301-a86e3f8fe4f9)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Send Message</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1007.0,149.0)' id='_KkJUcVNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#11bd96a2-a836-4db9-bbcb-aa8e9ea73c5b)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Pay Fees</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(293.0,278.0)' id='_KnFTsVNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#4f33f5d3-2052-40b4-80d1-418362fff03f)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Rate Teachers</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(493.0,1268.0)' id='_KqQjgVNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#b1f948a7-9f46-4d94-b59c-c6907836f6dd)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View News</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(618.0,410.0)' id='_Wna5EFNeEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#3de45511-cbf0-422a-9685-90beb0814ab8)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Apply For</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Internship</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(908.0,384.0)' id='_I7-VYFNhEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#d5edad8f-7827-4c2c-8b7e-75b5e3b68f37)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Course</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Files</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(628.0,912.0)' id='_pdk_YFNhEDun3IQ1q7Ko-w'>
+    <circle r='9.5' cx='25.0' cy='11.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='21.0' x1='25.0' y2='66.5' x2='25.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='38.0' x1='5.0' y2='38.0' x2='45.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='66.5' x1='25.0' y2='93.0' x2='9.4' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='66.5' x1='25.0' y2='93.0' x2='40.6' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='25.0' y='108.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Teacher</text>
+  </g>
+  <g transform='translate(681.0,1105.0)' id='_39X-4FNjEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#90a00cce-fb0d-484b-8548-90d2581b7d78)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Student</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Info</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(183.0,839.0)' id='_7PaXYFNjEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#300a7387-a478-45b3-bf08-89d4a773f27e)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Change Lesson</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Mode</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(208.0,652.0)' id='_CxuSQFNkEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#ec344640-96f8-4d30-a361-3a39e0b08357)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Put Mark</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(908.0,588.0)' id='_GvBOQFNkEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#8c071a23-b7f9-46e3-acd7-f384d250b968)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,6.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Manage Course</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Files</text>
+      </g>
+      <line y1='34.0' x1='15.0' y2='34.0' x2='85.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='50.0' y='55.0' font-size='13' fill='rgb(0, 0, 0)'>extension</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1564.0,1170.0)' id='_Eome4FNlEDun3IQ1q7Ko-w'>
+    <circle r='8.5' cx='20.0' cy='28.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='19.0' x1='20.0' y2='59.49999999999999' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='52.0' x1='2.0' y2='52.0' x2='38.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='77.5' x1='20.0' y2='101.0' x2='6.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='77.5' x1='20.0' y2='101.0' x2='34.0' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='98.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Manager</text>
+  </g>
+  <g transform='translate(208.0,1350.0)' id='_GPXBUFNlEDun3IQ1q7Ko-w'>
+    <circle r='9.4' cx='25.0' cy='11.4' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='20.8' x1='25.0' y2='65.8' x2='25.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='37.6' x1='5.199999999999999' y2='37.6' x2='44.8' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='65.8' x1='25.0' y2='92.0' x2='9.559999999999999' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='65.8' x1='25.0' y2='92.0' x2='40.44' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='25.0' y='107.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Admin</text>
+  </g>
+  <g transform='translate(282.0,1552.0)' id='_JblFsFNlEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#fa2eee83-350c-4222-a7e8-4a231afab29f)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add User</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(476.0,1553.0)' id='_JooDMFNlEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#bbd21fce-763f-46a2-bb02-1e9435168a1b)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Update User</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(663.0,1554.0)' id='_J1mvQFNlEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#4fd2cf9f-3283-4484-9c6c-d1b4895af3bf)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Remove User</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(879.0,1487.0)' id='_s1LQgFNlEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#eeab1ef1-348c-4361-9677-87991d52e6d0)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Show Statistical</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Report</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(706.0,1392.0)' id='_tWa8YFNlEDun3IQ1q7Ko-w'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#7bf276e8-6ecb-448b-a464-bbff21d93567)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Manage News</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1072.0,1082.0)' id='_JT0_4FMNEDuX1c-4M-9mvQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#69c3952a-ade6-4484-b78b-7c473a83bc7d)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Add Courses</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>For Registration</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1432.0,902.0)' id='_Kjs24FMOEDuX1c-4M-9mvQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#cae23df4-de26-4d1f-9c17-6d67605e6531)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Approve Student</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Registration</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1007.0,877.0)' id='_LZsDsVMOEDuX1c-4M-9mvQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#bb8ffbfe-4496-4a7b-b9e6-6e2397df37e8)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,6.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View Requests</text>
+      </g>
+      <line y1='21.0' x1='15.0' y2='21.0' x2='85.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='50.0' y='42.0' font-size='13' fill='rgb(0, 0, 0)'>extension</text>
+      </g>
+      <g transform='translate(0.0,0.0)'>
+        <text text-anchor='middle' x='50.0' y='55.0' font-size='13' fill='rgb(0, 0, 0)'>extension2</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1309.0,977.0)' id='_McztkFMOEDuX1c-4M-9mvQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#5a145ef9-e207-4da7-8dd9-802617a77058)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Assign Course</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>For Teacher</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1309.0,385.0)' id='_BoCpwFPaEDuOzLf7pwsBiQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#2722f554-8a60-40b0-a617-d14bac0adddd)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Mark</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Attendance</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1217.0,1488.0)' id='_DoCLkFPaEDuOzLf7pwsBiQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#a5d06481-4ef3-4e61-8251-9c6c3b977503)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,8.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>View</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Attendance</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='39.0' font-size='13' fill='rgb(3, 54, 86)'>Report</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1255.0,604.0)' id='_G5vz8FPaEDuOzLf7pwsBiQ'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#14fb1c16-a396-4ac2-9d40-bb98df8492e7)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,14.5)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>Open</text>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='26.0' font-size='13' fill='rgb(3, 54, 86)'>Attendance</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1309.0,1687.0)' id='_URrlQFeGEDueAIDqUKu0MA'>
+    <circle r='6.5' cx='20.0' cy='8.5' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='15.0' x1='20.0' y2='45.5' x2='20.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='26.0' x1='6.0' y2='26.0' x2='34.0' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='9.2' stroke-width='1.5' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <line y1='45.5' x1='20.0' y2='63.0' x2='30.799999999999997' fill='rgb(255, 255, 255)' stroke='rgb(136, 136, 136)' look='allInOne'/>
+    <text text-anchor='middle' x='20.0' y='78.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>Librarian</text>
+  </g>
+  <g transform='translate(1007.0,1520.0)' id='_dFrKcFeGEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#54986575-8c5f-4339-8939-2df597096eb4)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>borrowBook</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1440.0,1636.0)' id='_vy-XEFeGEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#8011ff2d-9053-4664-8ef4-0796a19c32e2)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>addRecord</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1440.0,1697.0)' id='_x8TbEFeGEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#c3de8bc8-f595-418c-ab02-9e89e3ab6a5c)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>deleteRecord</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(834.0,1607.0)' id='_73dcoFeGEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#63db7b3c-6a6c-43fd-bc1d-ca15342ca25c)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>payFine</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(908.0,1698.0)' id='_Ur9bkFeIEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#7387dbfb-3743-4824-8d62-1c82efe7fa35)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>updateCatalogue</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1115.0,1639.0)' id='_nDcwQFeIEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#1c5ba86a-8563-4db6-84db-ff77c734d035)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>addBook</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1115.0,1700.0)' id='_rJR9MFeIEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#68e1ea3c-2820-4937-bbfd-b14a76ad4e99)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>deleteBook</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(1115.0,1768.0)' id='_usiokFeIEDueAIDqUKu0MA'>
+    <ellipse cx='50.0' cy='27.5' rx='50.0' ry='27.5' stroke-width='1.0' fill='url(#6ea2cb4b-c0c9-410e-b472-afc175f08786)' stroke='rgb(187, 187, 187)' look='allInOne'/>
+    <g transform='translate(0.0,21.0)'>
+      <g transform='translate(0.0,0.0)'>
+        <text font-weight='bold' text-anchor='middle' x='50.0' y='13.0' font-size='13' fill='rgb(3, 54, 86)'>editBook</text>
+      </g>
+    </g>
+  </g>
+  <g transform='translate(546.0,189.0)' id='__GDV8FNcEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='884.0' y='28.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='930.0' y='66.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='959.0' y='118.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(357.0,227.0)' id='_vzpGYFNdEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='286.0' y='345.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <text text-anchor='middle' x='144.0' y='274.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <text text-anchor='middle' x='193.0' y='332.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <g transform='translate(419.0,160.0)' id='_5rIv8FNdEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='549.0' y='60.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <g transform='translate(388.0,271.0)' id='_aFXmoFNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(356.0,414.0)' id='_awSL4FNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(527.0,351.0)' id='_bLlAwFNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(492.0,780.0)' id='_bnTTcFNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(745.0,210.0)' id='_cF8XQFNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(528.0,505.0)' id='_cgUmIFNeEDun3IQ1q7Ko-w'/>
+  <g transform='translate(668.0,324.0)' id='_KSjGwFNhEDun3IQ1q7Ko-w'/>
+  <g transform='translate(416.0,778.0)' id='_hE9csFNjEDun3IQ1q7Ko-w'/>
+  <g transform='translate(513.0,1174.0)' id='_heTw0FNjEDun3IQ1q7Ko-w'/>
+  <g transform='translate(580.0,858.0)' id='_i40nAFNjEDun3IQ1q7Ko-w'/>
+  <g transform='translate(870.0,810.0)' id='_qJmtAFNjEDun3IQ1q7Ko-w'/>
+  <g transform='translate(155.0,631.0)' id='_w-UiEFNjEDun3IQ1q7Ko-w'/>
+  <g transform='translate(725.0,806.0)' id='_NzQtEFNkEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='986.0' y='525.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <g transform='translate(408.0,843.0)' id='_dFGfcFNkEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='281.0' y='520.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(378.0,935.0)' id='_gr18oFNkEDun3IQ1q7Ko-w'/>
+  <g transform='translate(623.0,1078.0)' id='_kXa2gFNkEDun3IQ1q7Ko-w'/>
+  <g transform='translate(245.0,1516.0)' id='_faAE0FNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(318.0,1502.0)' id='_fzIWgFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(410.0,1504.0)' id='_gVA7kFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(331.0,1370.0)' id='_iShxIFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(465.0,892.0)' id='_jtdeEFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(482.0,1473.0)' id='_xWvXMFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(431.0,1427.0)' id='_xwhJIFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(1179.0,1381.0)' id='_0D12oFNlEDun3IQ1q7Ko-w'/>
+  <g transform='translate(1128.0,1337.0)' id='_0wPCkFNlEDun3IQ1q7Ko-w'/>
+  <text text-anchor='middle' x='659.0' y='1342.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(1260.0,1189.0)' id='_M1QfQFMNEDuX1c-4M-9mvQ'/>
+  <text text-anchor='middle' x='925.0' y='1083.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(1269.0,1090.0)' id='_NHfXYFMQEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1420.0,1079.0)' id='_7mOVgFMOEDuX1c-4M-9mvQ'/>
+  <text text-anchor='middle' x='1477.0' y='494.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='1308.0' y='812.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(1063.0,1011.0)' id='_Jo17sFMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1028.0,1277.0)' id='_ORIVcFMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1527.0,614.0)' id='_UP0hcFMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1280.0,145.0)' id='_VLwlQFMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1098.0,1198.0)' id='_pGt30FMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(257.0,889.0)' id='_4UlJIFMPEDuX1c-4M-9mvQ'/>
+  <g transform='translate(1376.0,1136.0)' id='_P4YKoFMQEDuX1c-4M-9mvQ'/>
+  <text text-anchor='middle' x='1187.0' y='821.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='1085.0' y='552.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <text text-anchor='middle' x='877.0' y='677.0' fill='rgb(0, 0, 0)'>« extend »</text>
+  <g transform='translate(1111.0,1102.0)' id='_A-Dq4FPVEDue2KavWGTtnA'/>
+  <g transform='translate(411.0,449.0)' id='_PtUUoFPVEDue2KavWGTtnA'/>
+  <g transform='translate(77.0,881.0)' id='_vfiToFPWEDue2KavWGTtnA'/>
+  <g transform='translate(742.0,1246.0)' id='_zhvk0FPWEDue2KavWGTtnA'/>
+  <text text-anchor='middle' x='1316.0' y='530.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(1341.0,1383.0)' id='_u4dIsFPaEDuOzLf7pwsBiQ'/>
+  <g transform='translate(1544.0,1065.0)' id='_wgFN0FPaEDuOzLf7pwsBiQ'/>
+  <g transform='translate(898.0,821.0)' id='_xt_ycFPaEDuOzLf7pwsBiQ'/>
+  <g transform='translate(841.0,228.0)' id='_20hAUFPaEDuOzLf7pwsBiQ'/>
+  <g transform='translate(932.0,709.0)' id='_ZyYRYFPbEDuOzLf7pwsBiQ'/>
+  <g transform='translate(872.0,326.0)' id='_mG_doFPbEDuOzLf7pwsBiQ'/>
+  <g transform='translate(669.0,1006.0)' id='_1uDSEFPbEDuOzLf7pwsBiQ'/>
+  <g transform='translate(1329.0,1741.0)' id='_RcJGEFeHEDueAIDqUKu0MA'/>
+  <g transform='translate(1338.0,1716.0)' id='_SQGSkFeHEDueAIDqUKu0MA'/>
+  <g transform='translate(750.0,906.0)' id='_WBJiUFeHEDueAIDqUKu0MA'/>
+  <text text-anchor='middle' x='1091.0' y='1707.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='1091.0' y='1738.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <text text-anchor='middle' x='1091.0' y='1772.0' fill='rgb(0, 0, 0)'>« include »</text>
+  <g transform='translate(671.0,949.0)' id='_9oEzwFeIEDueAIDqUKu0MA'/>
+  <g transform='translate(1211.0,1717.0)' id='__tJC0FeIEDueAIDqUKu0MA'/>
+  <g transform='translate(1202.0,1742.0)' id='_AJfnoFeJEDueAIDqUKu0MA'/>
+  <g transform='translate(1208.0,1770.0)' id='_A6yhsFeJEDueAIDqUKu0MA'/>
+  <g id='__F8oQFNcEDun3IQ1q7Ko-w'>
+    <line y1='199.0' x1='578.0' y2='149.0' x2='706.0' id='__F_rkFNcEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_MmQyoFNdEDun3IQ1q7Ko-w'>
+    <line y1='102.0' x1='771.0' y2='30.0' x2='810.0' stroke-dasharray='7, 3' id='_MmT18FNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_NWG7MFNdEDun3IQ1q7Ko-w'>
+    <line y1='102.0' x1='805.0' y2='78.0' x2='846.0' stroke-dasharray='7, 3' id='_NWIJUlNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_OF71oFNdEDun3IQ1q7Ko-w'>
+    <line y1='130.0' x1='806.0' y2='130.0' x2='892.0' stroke-dasharray='7, 3' id='_OF9q0FNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_vzhxoFNdEDun3IQ1q7Ko-w'>
+    <line y1='212.0' x1='508.0' y2='212.0' x2='308.0' id='_vzkN4lNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_xdsNYFNdEDun3IQ1q7Ko-w'>
+    <line y1='394.0' x1='258.0' y2='239.0' x2='258.0' stroke-dasharray='7, 3' id='_xduCklNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(258.0,239.0) rotate(-0.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_yY3cMFNdEDun3IQ1q7Ko-w'>
+    <line y1='342.0' x1='92.0' y2='239.0' x2='223.0' stroke-dasharray='7, 3' id='_yY54clNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(223.0,239.0) rotate(51.823462399033524)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_y7bWsFNdEDun3IQ1q7Ko-w'>
+    <line y1='446.0' x1='155.0' y2='239.0' x2='246.0' stroke-dasharray='7, 3' id='_y7dL4FNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(246.0,239.0) rotate(23.73094016077148)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_5rCCQFNdEDun3IQ1q7Ko-w'>
+    <line y1='164.0' x1='508.0' y2='125.0' x2='480.0' id='_5rFsolNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_8jUeAFNdEDun3IQ1q7Ko-w'>
+    <line y1='54.0' x1='618.0' y2='83.0' x2='511.0' stroke-dasharray='7, 3' id='_8jW6QlNdEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(511.0,83.0) rotate(-105.16446089973844)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_aFPq0FNeEDun3IQ1q7Ko-w'>
+    <line y1='229.0' x1='508.0' y2='282.0' x2='393.0' id='_aFTVMFNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_awMFQFNeEDun3IQ1q7Ko-w'>
+    <line y1='536.0' x1='348.0' y2='261.0' x2='514.0' id='_awPIklNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_bLfhMFNeEDun3IQ1q7Ko-w'>
+    <line y1='410.0' x1='652.0' y2='261.0' x2='569.0' id='_bLikglNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_bnMlwFNeEDun3IQ1q7Ko-w'>
+    <line y1='1268.0' x1='543.0' y2='261.0' x2='543.0' id='_bnQ3MVNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_cF3ewFNeEDun3IQ1q7Ko-w'>
+    <line y1='180.0' x1='1007.0' y2='210.0' x2='578.0' id='_cF6iEVNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_cgPtoFNeEDun3IQ1q7Ko-w'>
+    <line y1='719.0' x1='626.0' y2='261.0' x2='550.0' id='_cgSJ4lNeEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_KSbyAFNhEDun3IQ1q7Ko-w'>
+    <line y1='388.0' x1='908.0' y2='229.0' x2='578.0' id='_KSe1UlNhEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_MmQyoFNdEDun3IQ1q7Ko-w'>
+    <line y1='28.0' x1='1126.0' y2='28.0' x2='1391.0' stroke-dasharray='7, 3' id='_4R5S0VNiEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1391.0,28.0) rotate(90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_MmQyoFNdEDun3IQ1q7Ko-w'>
+    <line y1='30.0' x1='810.0' y2='28.0' x2='1126.0' stroke-dasharray='7, 3' id='_6geqQFNiEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_NWG7MFNdEDun3IQ1q7Ko-w'>
+    <line y1='78.0' x1='846.0' y2='70.0' x2='1131.0' stroke-dasharray='7, 3' id='_7vNuQVNiEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1131.0,70.0) rotate(88.39211963008626)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_OF71oFNdEDun3IQ1q7Ko-w'>
+    <line y1='130.0' x1='892.0' y2='130.0' x2='1072.0' stroke-dasharray='7, 3' id='_-jga0VNiEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1072.0,130.0) rotate(90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_hE050FNjEDun3IQ1q7Ko-w'>
+    <line y1='591.0' x1='353.0' y2='935.0' x2='628.0' id='_hE6ZYVNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_heORQFNjEDun3IQ1q7Ko-w'>
+    <line y1='1268.0' x1='547.0' y2='1050.0' x2='580.0' id='_heRUklNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_i4tSQFNjEDun3IQ1q7Ko-w'>
+    <line y1='774.0' x1='633.0' y2='912.0' x2='647.0' id='_i4yKwFNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_qJfYQFNjEDun3IQ1q7Ko-w'>
+    <line y1='951.0' x1='678.0' y2='639.0' x2='1181.0' id='_qJkQwFNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_qJfYQFNjEDun3IQ1q7Ko-w'>
+    <line y1='639.0' x1='1181.0' y2='96.0' x2='1181.0' id='_rrjA4VNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_w-NNUFNjEDun3IQ1q7Ko-w'>
+    <line y1='449.0' x1='251.0' y2='782.0' x2='173.0' id='_w-RewlNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_w-NNUFNjEDun3IQ1q7Ko-w'>
+    <line y1='782.0' x1='173.0' y2='957.0' x2='628.0' id='_y2HKIVNjEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_NzIxQFNkEDun3IQ1q7Ko-w'>
+    <line y1='643.0' x1='934.0' y2='938.0' x2='678.0' id='_NzMbolNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_O4J4kFNkEDun3IQ1q7Ko-w'>
+    <line y1='439.0' x1='958.0' y2='588.0' x2='958.0' stroke-dasharray='7, 3' id='_O4M74FNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(958.0,588.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_dE_xwFNkEDun3IQ1q7Ko-w'>
+    <line y1='707.0' x1='295.0' y2='948.0' x2='628.0' id='_dFDcIlNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_eAi0AFNkEDun3IQ1q7Ko-w'>
+    <line y1='652.0' x1='258.0' y2='449.0' x2='258.0' stroke-dasharray='7, 3' id='_eAl3UFNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(258.0,449.0) rotate(-0.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_grwdEFNkEDun3IQ1q7Ko-w'>
+    <line y1='961.0' x1='628.0' y2='878.0' x2='283.0' id='_grzgYlNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_kXUI0FNkEDun3IQ1q7Ko-w'>
+    <line y1='1105.0' x1='717.0' y2='1020.0' x2='678.0' id='_kXYaQlNkEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_fZ264FNlEDun3IQ1q7Ko-w'>
+    <line y1='1449.0' x1='258.0' y2='1552.0' x2='316.0' id='_fZ8acVNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_fzBo0FNlEDun3IQ1q7Ko-w'>
+    <line y1='1420.0' x1='258.0' y2='1553.0' x2='479.0' id='_fzGhUlNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_gU3xoFNlEDun3IQ1q7Ko-w'>
+    <line y1='1414.0' x1='258.0' y2='1563.0' x2='663.0' id='_gU-fUVNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_iSZ1UFNlEDun3IQ1q7Ko-w'>
+    <line y1='1396.0' x1='258.0' y2='1313.0' x2='493.0' id='_iSfU4FNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jtWJUFNlEDun3IQ1q7Ko-w'>
+    <line y1='774.0' x1='607.0' y2='979.0' x2='431.0' id='_jtbo4FNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jtWJUFNlEDun3IQ1q7Ko-w'>
+    <line y1='979.0' x1='431.0' y2='1091.0' x2='431.0' id='_k-BuEFNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_jtWJUFNlEDun3IQ1q7Ko-w'>
+    <line y1='1091.0' x1='431.0' y2='1365.0' x2='258.0' id='_lpUt0VNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_xWm0UFNlEDun3IQ1q7Ko-w'>
+    <line y1='1408.0' x1='258.0' y2='1507.0' x2='879.0' id='_xWsT4lNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_xwZNUFNlEDun3IQ1q7Ko-w'>
+    <line y1='1405.0' x1='258.0' y2='1418.0' x2='706.0' id='_xwes4VNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_0Duh4FNlEDun3IQ1q7Ko-w'>
+    <line y1='1493.0' x1='979.0' y2='1239.0' x2='1564.0' id='_0D0BcFNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_0wHt0FNlEDun3IQ1q7Ko-w'>
+    <line y1='1408.0' x1='806.0' y2='1235.0' x2='1564.0' id='_0wMmUlNlEDun3IQ1q7Ko-w' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_heORQFNjEDun3IQ1q7Ko-w'>
+    <line y1='1050.0' x1='580.0' y2='996.0' x2='628.0' id='_ZmvDIFMMEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_cPOIUFMMEDuX1c-4M-9mvQ'>
+    <line y1='1392.0' x1='707.0' y2='1323.0' x2='589.0' stroke-dasharray='7, 3' id='_cPTn4FMMEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(589.0,1323.0) rotate(-59.68321975239604)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_M0zMQFMNEDuX1c-4M-9mvQ'>
+    <line y1='1123.0' x1='1172.0' y2='1225.0' x2='1564.0' id='_M09kUlMNEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_bQ4bUFMNEDuX1c-4M-9mvQ'>
+    <line y1='1106.0' x1='1072.0' y2='1085.0' x2='756.0' stroke-dasharray='7, 3' id='_bQ9T0VMNEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_bQ4bUFMNEDuX1c-4M-9mvQ'>
+    <line y1='1085.0' x1='756.0' y2='157.0' x2='756.0' stroke-dasharray='7, 3' id='_tnkewFMNEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(756.0,157.0) rotate(-0.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_NHFuwFMQEDuX1c-4M-9mvQ'>
+    <line y1='932.0' x1='1100.0' y2='1218.0' x2='1564.0' id='_NHPfwVMQEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_7lxpkFMOEDuX1c-4M-9mvQ'>
+    <line y1='957.0' x1='1491.0' y2='1171.0' x2='1564.0' id='_7l8BoVMOEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_-2P70FMOEDuX1c-4M-9mvQ'>
+    <line y1='902.0' x1='1480.0' y2='55.0' x2='1442.0' stroke-dasharray='7, 3' id='_-2XQkFMOEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1442.0,55.0) rotate(-2.5688082660317186)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_AIC64FMPEDuX1c-4M-9mvQ'>
+    <line y1='902.0' x1='1437.0' y2='700.0' x2='1120.0' stroke-dasharray='7, 3' id='_AIF-MFMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_AIC64FMPEDuX1c-4M-9mvQ'>
+    <line y1='380.0' x1='1120.0' y2='157.0' x2='1121.0' stroke-dasharray='7, 3' id='_ESNOMVMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1121.0,157.0) rotate(0.2569300245035111)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_Jojn0FMPEDuX1c-4M-9mvQ'>
+    <line y1='772.0' x1='681.0' y2='1220.0' x2='1564.0' id='_JosKslMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_OQ4d0FMPEDuX1c-4M-9mvQ'>
+    <line y1='1292.0' x1='593.0' y2='1232.0' x2='1564.0' id='_OQ_LgVMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_UPkp0FMPEDuX1c-4M-9mvQ'>
+    <line y1='1170.0' x1='1584.0' y2='28.0' x2='1584.0' id='_UPrXgFMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_VLhUsFMPEDuX1c-4M-9mvQ'>
+    <line y1='130.0' x1='1172.0' y2='130.0' x2='1507.0' id='_VLoCYFMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_UPkp0FMPEDuX1c-4M-9mvQ'>
+    <line y1='28.0' x1='1584.0' y2='28.0' x2='1491.0' id='_Wo-KIFMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_VLhUsFMPEDuX1c-4M-9mvQ'>
+    <line y1='130.0' x1='1507.0' y2='1170.0' x2='1579.0' id='_dnQK4VMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_pGVdUFMPEDuX1c-4M-9mvQ'>
+    <line y1='1138.0' x1='781.0' y2='1228.0' x2='1564.0' id='_pGfOUVMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_4UQZAFMPEDuX1c-4M-9mvQ'>
+    <line y1='591.0' x1='332.0' y2='1156.0' x2='332.0' id='_4UY74FMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_4UQZAFMPEDuX1c-4M-9mvQ'>
+    <line y1='1156.0' x1='332.0' y2='1229.0' x2='1564.0' id='_6LXEkFMPEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_P3_wIFMQEDuX1c-4M-9mvQ'>
+    <line y1='1032.0' x1='1385.0' y2='1210.0' x2='1564.0' id='_P4JhIFMQEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_d_TCAFMQEDuX1c-4M-9mvQ'>
+    <line y1='977.0' x1='1330.0' y2='643.0' x2='985.0' stroke-dasharray='7, 3' id='_d_XTclMQEDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(985.0,643.0) rotate(-45.92812731478198)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_ZrEXQFMREDuX1c-4M-9mvQ'>
+    <line y1='204.0' x1='1057.0' y2='877.0' x2='1057.0' stroke-dasharray='7, 3' id='_ZrLsAVMREDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1057.0,877.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_anEFcFMREDuX1c-4M-9mvQ'>
+    <line y1='465.0' x1='690.0' y2='877.0' x2='1033.0' stroke-dasharray='7, 3' id='_anT9EVMREDuX1c-4M-9mvQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1033.0,877.0) rotate(140.22179732194806)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_A9segFPVEDue2KavWGTtnA'>
+    <line y1='1223.0' x1='1564.0' y2='950.0' x2='850.0' id='_A94EsFPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_A9segFPVEDue2KavWGTtnA'>
+    <line y1='950.0' x1='850.0' y2='546.0' x2='852.0' id='_Cj1V4FPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_A9segFPVEDue2KavWGTtnA'>
+    <line y1='546.0' x1='852.0' y2='157.0' x2='762.0' id='_F5_ZYFPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_Ps9IQFPVEDue2KavWGTtnA'>
+    <line y1='261.0' x1='530.0' y2='606.0' x2='442.0' id='_PtG5QFPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_Ps9IQFPVEDue2KavWGTtnA'>
+    <line y1='610.0' x1='730.0' y2='1105.0' x2='731.0' id='_W0yGkVPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_Ps9IQFPVEDue2KavWGTtnA'>
+    <line y1='606.0' x1='442.0' y2='610.0' x2='730.0' id='_Y7O1sVPVEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_vfIrAFPWEDue2KavWGTtnA'>
+    <line y1='501.0' x1='143.0' y2='1231.0' x2='143.0' id='_vfU4QFPWEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_vfIrAFPWEDue2KavWGTtnA'>
+    <line y1='1231.0' x1='143.0' y2='1231.0' x2='1564.0' id='_wcJF0FPWEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_zhZmkFPWEDue2KavWGTtnA'>
+    <line y1='1231.0' x1='1564.0' y2='1231.0' x2='57.0' id='_zhnB8FPWEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_zhZmkFPWEDue2KavWGTtnA'>
+    <line y1='1231.0' x1='57.0' y2='397.0' x2='57.0' id='_z_PZIVPWEDue2KavWGTtnA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_MsU2kFPaEDuOzLf7pwsBiQ'>
+    <line y1='604.0' x1='1311.0' y2='440.0' x2='1352.0' stroke-dasharray='7, 3' id='_MshD0FPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1352.0,440.0) rotate(14.036243467926479)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_AIC64FMPEDuX1c-4M-9mvQ'>
+    <line y1='700.0' x1='1120.0' y2='380.0' x2='1120.0' stroke-dasharray='7, 3' id='_XG70QVPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_u3uI4FPaEDuOzLf7pwsBiQ'>
+    <line y1='1248.0' x1='1564.0' y2='1488.0' x2='1298.0' id='_u39ZclPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_wfwdsFPaEDuOzLf7pwsBiQ'>
+    <line y1='1170.0' x1='1593.0' y2='930.0' x2='1632.0' id='_wf9SAVPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_xtcY0FPaEDuOzLf7pwsBiQ'>
+    <line y1='954.0' x1='678.0' y2='657.0' x2='1255.0' id='_xtp0MVPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_2z7KcFPaEDuOzLf7pwsBiQ'>
+    <line y1='213.0' x1='578.0' y2='213.0' x2='1242.0' id='_20Il0VPaEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_2z7KcFPaEDuOzLf7pwsBiQ'>
+    <line y1='213.0' x1='1242.0' y2='385.0' x2='1342.0' id='_NNE9wVPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_Zx8MgFPbEDuOzLf7pwsBiQ'>
+    <line y1='947.0' x1='678.0' y2='440.0' x2='1324.0' id='_ZyLdEFPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_mGqGcFPbEDuOzLf7pwsBiQ'>
+    <line y1='221.0' x1='578.0' y2='400.0' x2='1309.0' id='_mG3h0FPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_wfwdsFPaEDuOzLf7pwsBiQ'>
+    <line y1='410.0' x1='1630.0' y2='412.0' x2='1409.0' id='_ndiZ0FPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_wfwdsFPaEDuOzLf7pwsBiQ'>
+    <line y1='930.0' x1='1632.0' y2='410.0' x2='1630.0' id='_oJcdkFPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_1treoFPbEDuOzLf7pwsBiQ'>
+    <line y1='972.0' x1='678.0' y2='1010.0' x2='840.0' id='_1t5hEFPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_1treoFPbEDuOzLf7pwsBiQ'>
+    <line y1='1010.0' x1='840.0' y2='1070.0' x2='1020.0' id='_5YzFgVPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_1treoFPbEDuOzLf7pwsBiQ'>
+    <line y1='1070.0' x1='1020.0' y2='1488.0' x2='1251.0' id='_618Y8FPbEDuOzLf7pwsBiQ' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_RbXC8FeHEDueAIDqUKu0MA'>
+    <line y1='1725.0' x1='1440.0' y2='1726.0' x2='1349.0' id='_Rb51gFeHEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_SPcLQFeHEDueAIDqUKu0MA'>
+    <line y1='1683.0' x1='1440.0' y2='1719.0' x2='1349.0' id='_SP8hkFeHEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_V_-doFeHEDueAIDqUKu0MA'>
+    <line y1='1520.0' x1='1046.0' y2='261.0' x2='561.0' id='_WAez8VeHEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_0QR98FeIEDueAIDqUKu0MA'>
+    <line y1='1681.0' x1='1115.0' y2='1711.0' x2='1008.0' stroke-dasharray='7, 3' id='_0QmuEFeIEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1008.0,1711.0) rotate(-105.66210634532605)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_1onp4FeIEDueAIDqUKu0MA'>
+    <line y1='1727.0' x1='1115.0' y2='1726.0' x2='1008.0' stroke-dasharray='7, 3' id='_1o7L4FeIEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1008.0,1726.0) rotate(-89.46454101443547)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_3EfK8FeIEDueAIDqUKu0MA'>
+    <line y1='1779.0' x1='1115.0' y2='1742.0' x2='1008.0' stroke-dasharray='7, 3' id='_3E0iIFeIEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polyline transform='translate(1008.0,1742.0) rotate(-70.92490150755447)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+  </g>
+  <g id='_9nmSoFeIEDueAIDqUKu0MA'>
+    <line y1='1607.0' x1='877.0' y2='261.0' x2='554.0' id='_9oBwcleIEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='__sZb8FeIEDueAIDqUKu0MA'>
+    <line y1='1719.0' x1='1309.0' y2='1685.0' x2='1215.0' id='__s8OgFeIEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_AI38kFeJEDueAIDqUKu0MA'>
+    <line y1='1727.0' x1='1309.0' y2='1727.0' x2='1215.0' id='_AJXr0VeJEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_A6IaYFeJEDueAIDqUKu0MA'>
+    <line y1='1735.0' x1='1309.0' y2='1774.0' x2='1215.0' id='_A6p-0FeJEDueAIDqUKu0MA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+</svg>
